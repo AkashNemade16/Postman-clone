@@ -1,5 +1,5 @@
 # Postman-clone
-npm install 
+npm install /
 npm start
 postman will start running.
 ![pc1](https://user-images.githubusercontent.com/37910311/123316952-52190180-d4e2-11eb-92dd-0f9adb380914.jpg)
